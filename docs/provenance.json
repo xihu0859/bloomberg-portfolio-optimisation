@@ -1,0 +1,17 @@
+{
+  "source_artifacts": [
+    {
+      "artifact": "canonical team notebook",
+      "sha256": "2be4040e4ae984137d9313f171ad76756622438dea1216791c6d9a1b3a56b9cc"
+    },
+    {
+      "artifact": "completed team report",
+      "sha256": "f3989684e99f77d36d32bd44cf20f39cf6e7aa839e0bd3ca2eeeac0c7f9dec1a"
+    },
+    {
+      "artifact": "team presentation",
+      "sha256": "3b0c06ccad6b629aa109ca6b3e5bfba6b304ef8f4ce89445c7df81694dd5fadf"
+    }
+  ],
+  "public_edition": "Portable paths, cleaned metadata/identifiers and documentation; original research results retained."
+}
